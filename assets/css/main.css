@@ -3,4 +3,5 @@ body{
     background-color: tomato;
     color: white;
     padding: 12px;
+    box-sizing: border-box;
 }
