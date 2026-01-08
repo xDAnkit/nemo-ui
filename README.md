@@ -1,3 +1,3 @@
-# nemo-ui v.1.0
+# nemo-ui v.1.0.1
 
-## Author - Aviral 3
+## Author - Aviral 4
